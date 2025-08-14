@@ -3,10 +3,7 @@
 Una piccola galleria musicale in HTML: copertine/immagini organizzate in pagina, con markup semplice e pronto da pubblicare.
 La cartella album/ contiene le risorse grafiche (cover/foto). 
 
-## Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)  
+## Stack ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 
 ### Demo live  
 
