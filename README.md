@@ -1,7 +1,9 @@
 # 🎵 ALMusicAlbum — Album Musicale (Static Gallery)
 
 Una piccola galleria musicale in HTML: copertine/immagini organizzate in pagina, con markup semplice e pronto da pubblicare.
-La cartella album/ contiene le risorse grafiche (cover/foto). 
+La cartella album/ contiene le risorse grafiche (cover/foto).
+
+**Guarda il sito live qui: [https://almusicalbum-alina.netlify.app/](https://almusicalbum-alina.netlify.app/)**
 
 ## Stack ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 
